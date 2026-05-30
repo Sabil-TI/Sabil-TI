@@ -9,8 +9,8 @@ I'm a passionate developer from Indonesia who loves building open-source project
 
 ---
 
-### 📊 My GitHub Stats
-Berikut adalah statistik aktivitas coding saya yang akan ter-update otomatis:
+### 📊 My GitHub Trophies
+Berikut adalah trofi pencapaian aktivitas coding saya di GitHub:
 
 ![](https://vercel.app)
 
