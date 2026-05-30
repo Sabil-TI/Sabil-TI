@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ibnu Sabil! 👋 
 
-<!--
-**Sabil-TI/Sabil-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer from Indonesia who loves building open-source projects, writing clean code, and creating useful tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on C++ and Python projects.
+- 🌱 I’m currently learning advanced web development and software architecture.
+- ⚡ Fun fact: I stay energized by writing code and drinking coffee! ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+Berikut adalah statistik aktivitas coding saya yang akan ter-update otomatis:
+
+<p align="left">
+  <img src="https://vercel.app" alt="Sabil-TI GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 💖 Support My Work
+If you like my projects, consider supporting me through GitHub Sponsors!
