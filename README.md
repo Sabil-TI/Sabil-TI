@@ -12,7 +12,7 @@ I'm a passionate developer from Indonesia who loves building open-source project
 ### 📊 My GitHub Trophies
 Berikut adalah trofi pencapaian aktivitas coding saya di GitHub:
 
-![](https://vercel.app)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabil-TI&layout=compact&theme=radical)
 
 ---
 
