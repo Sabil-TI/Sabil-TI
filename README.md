@@ -13,8 +13,8 @@ I'm a passionate developer from Indonesia who loves building open-source project
 Berikut adalah statistik aktivitas coding saya yang akan ter-update otomatis:
 
 <p align="left">
-  <img src="https://vercel.app" alt="Sabil-TI GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+   <img src="https://shion.dev" alt="Sabil-TI GitHub Stats" height="180px" />
+  <img src="https://shion.dev" alt="Top Languages" height="180px" />
 </p>
 
 ---
