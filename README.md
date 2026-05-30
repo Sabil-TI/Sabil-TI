@@ -12,7 +12,11 @@ I'm a passionate developer from Indonesia who loves building open-source project
 ### 📊 My GitHub Stats
 Berikut adalah statistik aktivitas coding saya yang akan ter-update otomatis:
 
-![](https://vercel.app)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabil-TI&show_icons=true&theme=radical" alt="Sabil-TI Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabil-TI&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+</p>
 
 ---
 
