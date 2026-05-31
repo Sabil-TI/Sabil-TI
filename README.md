@@ -18,3 +18,22 @@ Berikut adalah trofi pencapaian aktivitas coding saya di GitHub:
 
 ### 💖 Support My Work
 If you like my projects, consider supporting me through GitHub Sponsors!
+<details>
+  <summary><b>📋 Lihat Daftar Proyek Coding Saya</b></summary>
+  <br />
+  
+  - 🎮 <b>Proyek 1:</b> Aplikasi Kalkulator / Game sederhana (Sedang dikembangkan)
+  - 🌐 <b>Proyek 2:</b> Desain Web Portofolio Pribadi menggunakan HTML & CSS
+  - ⚙️ <b>Proyek 3:</b> Program C++ / Python untuk latihan logika dasar
+  
+</details>
+
+<details>
+  <summary><b>💖 Informasi Khusus Sponsor</b></summary>
+  <br />
+  
+  Terima kasih banyak atas ketertarikan Anda! Donasi dari Anda akan sangat membantu saya untuk:
+  - Membeli kopi agar tetap fokus saat coding ☕
+  - Membayar biaya internet dan belajar pemrograman lebih dalam 🚀
+  
+</details>
